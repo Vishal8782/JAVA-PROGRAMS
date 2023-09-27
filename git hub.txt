@@ -1,0 +1,15 @@
+
+
+email id = vishalkengar7@gmail.com
+
+user name = Vishal8782
+
+git config --global user.name "Vishal8782"
+
+git config --global user.email vishalkengar7@gmail.com
+
+git branch -M master
+
+git remote add origin https://github.com/Vishal8782/GIT-DEMO.git
+
+git push -u origin master
